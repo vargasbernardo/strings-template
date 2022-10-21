@@ -1,4 +1,4 @@
-# A009 - Template de Prática
+# Strings - Template de Prática
 **Vamos utilizar esse repositório para as práticas da aula!**
 
 ## Instruções para baixar
